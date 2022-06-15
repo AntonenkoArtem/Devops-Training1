@@ -20,3 +20,5 @@
 /fuel/app/cache/*/*
 /fuel/app/config/crypt.php
 /skip
+!/test/s2.txt
+/test/*.txt
